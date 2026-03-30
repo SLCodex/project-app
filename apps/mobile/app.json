@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "task-mvp-mobile",
+    "slug": "task-mvp-mobile",
+    "scheme": "taskmvp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
